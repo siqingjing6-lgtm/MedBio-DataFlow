@@ -22,7 +22,7 @@ class BioFeatureSelector:
         
         X_scaled = self.scaler.fit_transform(X)
         
-        # Lasso with 5-fold cross validation
+        # Lasso regression with 5-fold cross validation for clinical screening
         lasso = LassoCV(cv=5, random_state=42, max_iter=10000).fit(X_scaled, y)
         
         selected_features = {}
