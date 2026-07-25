@@ -6,7 +6,7 @@ from src.clinical_stats import BioFeatureSelector
 from src.omics_prep import calculate_tissue_requirements
 
 def main():
-    print("=== MedBio-DataFlow Automated Pipeline Demo ===")
+    print("=== MedBio-DataFlow Automated Pipeline Demo ===")！
     
     # 1. Omics Sample QC Check
     print("\n--- 1. RNA-Seq Tissue Sampling QC ---")
