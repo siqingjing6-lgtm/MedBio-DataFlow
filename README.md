@@ -2,7 +2,7 @@
 An open-source, lightweight Python toolkit designed to streamline automated workflows for clinical data biostatistics, biomarker feature screening, and multi-omics sample preparation.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)]    (https://www.python.org/downloads/)
 
 ## ✨ Why MedBio-DataFlow?
 Clinical biomedical researchers and bioinformaticians often spend hours writing repetitive script boilerplate for routine statistical tasks (like LASSO feature selection, multivariate logistic regression, and sample QC). **MedBio-DataFlow** bridges this gap by providing robust, reproducible, and standardized data pipelines designed specifically for translational medicine research.
